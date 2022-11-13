@@ -1,4 +1,4 @@
-# Eth-Discovery
+# Eth-Tools
 Tools that make Web3 bb easier. 
 
 
