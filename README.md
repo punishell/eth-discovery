@@ -6,7 +6,7 @@ Tools that make Web3 bb easier.
 
 ### Balance Checker
 ```
-$ cat priv_keys.txt | python3 balance_checker.py 
+$ cat priv_keys.txt | ETHP_TOKEN=TOKEN-GOES-HERE python3 balance_checker.py 
 Your PRIVATE_KEY is 0x0000000000000000000000000000000000000000000000000000000000000000
 Your hot wallet address is 0x3f17f1962B36e491b30A40b2405849e597Ba5FB5
 10331835746777208361
